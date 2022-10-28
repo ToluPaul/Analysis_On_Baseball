@@ -7,3 +7,6 @@ This project was carried out at Datacamp and utilizing a majority of their resou
 The statistics of two great MBL players Aaron Judge and Giancarlo Stanton were analysed from the data collated to find out their type and nature of play taking into consideration that these were exceptional players both in size and skill.
 
 The python notebook was primarily carried out on Datacamp and contains data visualizations on the style of play of the two players in comparison taking into consideration that statcast measure the angle and velocity of how the players hit the ball and how fast the ball projects from the point of play.
+
+Analysis using charts like kernel density plot, scatter plots and violin plots were used to analyze each players style of play and how hard or how fast they make the ball gear into momentum
+
