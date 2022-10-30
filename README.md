@@ -10,6 +10,6 @@ The python notebook was primarily carried out on Datacamp and contains data visu
 
 Analysis using charts like kernel density plot, scatter plots and violin plots were used to analyze each players style of play and how hard or how fast they make the ball gear into momentum
 
-A beautiful conceptual 2D histogram was made to view how the two different players prefer to make their homeruns. 
+A beautiful conceptual 2D histogram was made to view how the two different players like to make their homeruns. 
 
 And hey! before you run away to click the home button do you think an average MBL player should be scared of these players with the analysis given
